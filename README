@@ -1,0 +1,10 @@
+========
+Contacts
+========
+
+I use this script for synchronizing the content of my master phonebook
+database with the OS X Contacts.
+
+It needs MacRuby to work.
+
+-EOF
